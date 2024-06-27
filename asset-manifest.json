@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hcht21tickets/static/css/main.d745bccb.css",
-    "main.js": "/hcht21tickets/static/js/main.01b3eb62.js",
+    "main.js": "/hcht21tickets/static/js/main.aab4ecb3.js",
     "index.html": "/hcht21tickets/index.html",
     "main.d745bccb.css.map": "/hcht21tickets/static/css/main.d745bccb.css.map",
-    "main.01b3eb62.js.map": "/hcht21tickets/static/js/main.01b3eb62.js.map"
+    "main.aab4ecb3.js.map": "/hcht21tickets/static/js/main.aab4ecb3.js.map"
   },
   "entrypoints": [
     "static/css/main.d745bccb.css",
-    "static/js/main.01b3eb62.js"
+    "static/js/main.aab4ecb3.js"
   ]
 }
